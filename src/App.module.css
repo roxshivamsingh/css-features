@@ -1,0 +1,11 @@
+.PrimaryNavigation {
+  padding: 1em;
+  & ul {
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
